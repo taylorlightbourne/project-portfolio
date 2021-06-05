@@ -3366,3 +3366,6 @@ body.is-touch .poptrox-popup .closer {
 #disabled {
   color: rgba(128, 128, 128, 0.705);
 }
+.pageLinks a {
+  margin-right: 2rem;
+}
